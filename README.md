@@ -12,11 +12,13 @@ The proper way should be to add `Capstanfile` to erjang repo.
 How to run:
 
 1. install `qemu` on Linux or `VirtualBox` on other platforms.
-2. install `capstan`
-3.
+
+2. install `capstan`.
+
+3. Run:
     ``` bash
-    git clone git@github.com:nivertech/osv-erjang.git
- 	cd osv-erjang/
+    $ git clone git@github.com:nivertech/osv-erjang.git
+ 	$ cd osv-erjang/
     
     $ capstan build
 	Building osv-erjang...
