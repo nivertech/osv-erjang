@@ -1,3 +1,9 @@
+
+# This repo is deprecated
+
+See https://github.com/nivertech/osv-apps/tree/erjang
+
+
 osv-erjang
 ==========
 
