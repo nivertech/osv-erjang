@@ -1,7 +1,7 @@
 
 # This repo is deprecated
 
-See https://github.com/nivertech/osv-apps/tree/erjang
+See https://github.com/cloudius-systems/osv-apps/tree/master/erjang
 
 
 osv-erjang
